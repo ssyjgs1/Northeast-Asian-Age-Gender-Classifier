@@ -5,7 +5,7 @@ Classifying by age and gender using a dataset of Northeast Asian face photos
 - Microsoft AI School Team 2 Project
 - Schedule : 
     - Processing : 2023.1.13 ~ 1.16
-    - A result briefing session : 2023.1.18 | Presentation : [presentation.pdf](/presentation.pdf)
+    - A result briefing session : 2023.1.18 | Presentation : [:link:Link](/presentation.pdf)
 - Member of Project   
     Team Leader : @yeoiksu | https://github.com/yeoiksu  
     Team Member : @TaeYounKwon | https://github.com/TaeYounKwon  
